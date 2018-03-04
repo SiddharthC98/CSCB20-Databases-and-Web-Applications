@@ -1,4 +1,18 @@
-#title {
-  font-family:fantasy;
-  color: blue;
+#topbar {
+  background-color: teal;
+  top: 0px;
+  height: 100px;
+  width: 100%;
+  margin-top: 0;
+  margin-left: 0px;
 }
+
+#title {
+  color: white;
+  font-size: 50px;
+  font-family: fantasy;
+  position: fixed;
+  left: 50px;
+  top: 30px;
+}
+
