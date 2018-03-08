@@ -1,3 +1,7 @@
+body {
+  background-color: #eaeffa;
+}
+
 #topbar {
   background-color: #3385ff;
   top: 0px;
@@ -8,7 +12,7 @@
   z-index: 1;
 }
 
-#title {
+#title a {
   color: white;
   font-size: 40px;
   font-family: fantasy;
@@ -17,22 +21,14 @@
   top: 25px;
   width: 100%;
   z-index: 2;
-
-}
-
-img {
-  position: absolute;
-  top: 125px;
-  left: 225px;
-  z-index: -1;
-  opacity: 0.30;
+  text-decoration: none;
 }
 
 /* Footer */
 #footer {
-  position: fixed;
-  bottom: 0px;
-  width: auto;
+  position:absolute;
+  bottom:0;
+  height:0px;
 }
 
 /* Dropdown Menu */
@@ -82,8 +78,4 @@ img {
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .drophover {
   background-color: #33cc33;
-}
-
-#description p {
-  font-size: 18px;
 }
