@@ -19,9 +19,32 @@ body {
   position: fixed;
   left: 20px;
   top: 25px;
+  z-index: 2;
+  text-decoration: none;
+}
+
+#title:hover a {
+  color: #fffa00;
+  font-size: 40px;
+  font-family: fantasy;
+  position: fixed;
+  left: 20px;
+  top: 25px;
   width: 100%;
   z-index: 2;
   text-decoration: none;
+}
+
+#syllabus a {
+  color: black;
+  text-decoration: none;
+  position: absolute;
+}
+
+#syllabus:hover a {
+  color: red;
+  text-decoration: none;
+  position: absolute;
 }
 
 /* Footer */
@@ -29,15 +52,16 @@ body {
   position:absolute;
   bottom:0;
   height:0px;
+  text-decoration: none;
+  color: black;
 }
 
 /* Dropdown Menu */
-.drophover {
+.menu {
   background-color: #248f24;
   color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
+  padding: 20px;
+  font-size: 18px;
   font-family: Arial;
 }
 
@@ -48,34 +72,52 @@ body {
 }
 
 /* Menu Content */
-.dropdown-content {
+.menu-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: white;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
 /* Content inside the dropdown menu */
-.dropdown-content a {
+.menu-content a {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
+  font-family: Arial;
 }
 
 /* Change color of content links on hover */
-.dropdown-content a:hover {
-  background-color: #ddd;
+.menu-content a:hover {
+  background-color: #b3cccc;
 }
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
+.dropdown:hover .menu-content {
   display: block;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .drophover {
+.dropdown:hover .menu {
   background-color: #33cc33;
+}
+
+#description h2 {
+  text-decoration: underline;
+}
+
+#description p, p1, p2{
+  font-size: 16px;
+  font-family: Arial;
+}
+
+#instructor h2 {
+  text-decoration: underline;
+}
+
+#instructor ul{
+  font-size: 16px;
+  font-family: Arial;
 }
