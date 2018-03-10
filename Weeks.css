@@ -1,7 +1,6 @@
 /* The main background */
 body {
   background-color: #eaeffa;
-  margin: 0px;
 }
 
 #topbar {
@@ -38,4 +37,23 @@ body {
   width: 100%;
   z-index: 2;
   text-decoration: none;
+}
+
+h1, h2{
+  font-family: Arial;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  margin: 0;
+  font-size: 18px;
+  width: 0;
+}
+
+li:hover a{
+  text-decoration: none;
+  color: red;
+  margin: 0;
+  font-size: 18px;
 }
