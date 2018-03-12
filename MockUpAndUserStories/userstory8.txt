@@ -1,0 +1,1 @@
+As a student user, I want to be able to return to the home page by clicking on the header and getting immediate feedback by a change in colour as I hover over the header text so that I can access can return the main page once I’m done looking at a subpage of the course website. 
