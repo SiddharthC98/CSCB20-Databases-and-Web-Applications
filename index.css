@@ -29,7 +29,7 @@ body {
 #title a {
   color: white;
   font-size: 40px;
-  font-family: fantasy;
+  font-family: fantasy, Arial;
   position: fixed;
   left: 20px;
   top: 25px;
