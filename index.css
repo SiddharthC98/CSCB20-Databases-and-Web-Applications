@@ -83,7 +83,7 @@ body {
 
 /* Position of the dropdown content */
 .dropdown {
-  position: relative;
+  position: static;
   display: inline-block;
 }
 
@@ -108,6 +108,8 @@ body {
 /* Change in color of content links on mouse hover */
 .menu-content a:hover {
   background-color: #b3cccc;
+  font-weight: bold;
+  color: red;
 }
 
 /* Show the dropdown menu on hover */
