@@ -82,7 +82,7 @@ body {
 }
 
 /* Position of the dropdown content */
-.dropdown {
+.dropdown-menu {
   position: static;
   display: inline-block;
 }
@@ -113,12 +113,12 @@ body {
 }
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .menu-content {
+.dropdown-menu:hover .menu-content {
   display: block;
 }
 
 /* Change the background color of the dropdown bar when the dropdown content is shown */
-.dropdown:hover .menu {
+.dropdown-menu:hover .menu {
   background-color: #33cc33;
 }
 
