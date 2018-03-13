@@ -73,7 +73,7 @@ body {
 }
 
 /* Dropdown Menu */
-.menu {
+.menu-title {
   background-color: #248f24;
   color: white;
   padding: 20px;
@@ -118,7 +118,7 @@ body {
 }
 
 /* Change the background color of the dropdown bar when the dropdown content is shown */
-.dropdown-menu:hover .menu {
+.dropdown-menu:hover .menu-title {
   background-color: #33cc33;
 }
 
