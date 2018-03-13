@@ -1,0 +1,1 @@
+5. As a student user, I want to access pages for each assignment that contains key information such as the due date, topic and weight as well as a link to the handout which changes colour when I hover over the link so that I can access the handout in a separate tab and work on it. 

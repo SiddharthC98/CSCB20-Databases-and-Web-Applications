@@ -1,0 +1,1 @@
+3. As a student user, I want to access links to all the lectures slides and their corresponding readings on the same page for each week and get feedback when I hover over the text link to the slides  or web page for the readings so that I can open the specific link to either the lecture slides or reading in a separate tab.

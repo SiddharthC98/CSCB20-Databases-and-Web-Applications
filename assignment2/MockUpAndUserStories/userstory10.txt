@@ -1,0 +1,1 @@
+10. As a student, I want to click on the professor's email address on the main page and have it copied to my clipboard so I can paste the address when sending them an email to elliminate the chance of a copy error by manually typing the address out.  

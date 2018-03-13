@@ -1,0 +1,1 @@
+2. As a student user, I want to hover over the syllabus word on the key page and get immediate feedback by colour change so I know that the word is a link to the syllabus and also so that I may access the course syllabus when I click on the text.

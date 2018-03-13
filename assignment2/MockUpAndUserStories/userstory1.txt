@@ -1,0 +1,2 @@
+
+As a student user, I want to hover over a menu bar which compartmentalizes all of the course content (lectures, labs, assignments, quizzes and resources) and get immediate feedback by change in colour of the menu item as I hover so I can choose the page or content I want to access.

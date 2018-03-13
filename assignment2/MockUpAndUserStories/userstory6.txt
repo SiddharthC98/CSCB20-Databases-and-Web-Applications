@@ -1,0 +1,1 @@
+6. As a student user, I want to be able to quickly access key resources like the piazza page, markus page or computer labs availability page in a new tab from a drop down menu that gives me feedback by change in colour as I hover over the menu option so that I can access the links and still have the course website page open in a separate tab. 

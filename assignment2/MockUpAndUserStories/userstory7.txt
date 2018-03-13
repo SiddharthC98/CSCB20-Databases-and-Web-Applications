@@ -1,0 +1,1 @@
+7. As an instructor, I want to have all my announcements featured on the main page so that I can keep the students updated every time they access the website.
